@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sai Reshma Guntimadugu</h1>
 <h3 align="center">Software Engineer</h3>
 
+- 👨‍💻 Masters Student from IIT Chicago
+
 - 🔭 I’m currently working on **Advancing My Skills**
 
 - 🌱 I’m currently learning **SQL, JavaScript**
 
 - 📫 How to reach me **sguntimadugu@hawk.iit.edu**
+
+- ⚡ Everything comes to you at the right time.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
