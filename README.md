@@ -1,15 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Sai Reshma Guntimadugu
 
+**Sofware Engineer**
 
-**SaiReshma09/SaiReshma09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Angular Projects
+- 👨‍💻 Masters Student from IIT Chicago
+- 🔭 I’m currently working on Advancing My Skills
 - 🌱 I’m currently learning SQL, JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: sguntimadugu@hawk.iit.edu
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: mail me at sguntimadugu@hawk.iit.edu
