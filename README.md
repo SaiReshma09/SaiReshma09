@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Reshma Guntimadugu</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 👨‍💻 Masters Student from IIT Chicago
+- 👨‍💻 Computer Science Graduate from IIT Chicago
 
 - 🔭 I’m currently working on **Advancing My Skills**
 
